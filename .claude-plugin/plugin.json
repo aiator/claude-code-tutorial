@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-tutorial",
+  "description": "비개발자를 위한 Claude Code 실습 튜토리얼 시리즈. 영상을 보고, 스킬을 설치하고, 직접 따라 만들어보세요.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AIATOR"
+  },
+  "homepage": "https://github.com/aiator/claude-code-tutorial",
+  "repository": "https://github.com/aiator/claude-code-tutorial",
+  "license": "MIT"
+}

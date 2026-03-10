@@ -1,0 +1,14 @@
+{
+  "name": "aiator-claude-code-tutorial",
+  "description": "AIATOR Claude Code Tutorial Marketplace",
+  "plugins": [
+    {
+      "name": "claude-code-tutorial",
+      "source": ".",
+      "version": "1.0.0",
+      "description": "비개발자를 위한 Claude Code 실습 튜토리얼 시리즈",
+      "category": "education",
+      "keywords": ["tutorial", "beginner", "korean", "non-developer"]
+    }
+  ]
+}
