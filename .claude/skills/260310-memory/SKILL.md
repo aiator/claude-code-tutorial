@@ -1,11 +1,11 @@
 ---
-name: ep01-memory
+name: 260310-memory
 description: "AI에게 나를 가르치기 — CLAUDE.md 실습 튜토리얼. 질문에 답하면 나만의 AI 메모리 파일이 완성됩니다."
 ---
 
-# EP01: AI에게 나를 가르치기 — CLAUDE.md
+# AI에게 나를 가르치기 — CLAUDE.md
 
-이 스킬은 AIATOR 유튜브 EP01의 실습 가이드입니다.
+이 스킬은 AIATOR 유튜브의 실습 가이드입니다.
 영상 없이도 진행할 수 있지만, 영상과 함께하면 더 잘 이해됩니다.
 
 ---
